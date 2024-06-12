@@ -1,48 +1,9 @@
 ---
 layout: default
 title: HoleToAnotherUniVersE
-mermaid: true
-carousels:
-  - images: 
-    - image: /uploads/androiddemo/image1.jpg
-    - image: /uploads/androiddemo/image2.png
-    - image: /uploads/androiddemo/image3.jpg
-    - image: /uploads/androiddemo/image5.jpg
-    - image: /uploads/androiddemo/image6.png
-    - image: /uploads/androiddemo/image7.jpg
-    - image: /uploads/androiddemo/image8.png 
-    - image: /uploads/androiddemo/image9.png
-    - image: /uploads/androiddemo/rayman.png
-    - image: /uploads/androiddemo/image4.jpg 
-  - images: 
-    - image: /uploads/androiddemo/tumblr_aba4cd3b21a9d48d365fc9b727d1215c_b8a1a281_1280.jpg
-    - image: /uploads/androiddemo/tumblr_0483a8a9542d927ee0726efe1268f0cc_58ddf713_1280.jpg
-    - image: /uploads/androiddemo/tumblr_feb852c475578ac7dbad8b2222d5a16c_e722dde0_1280.png 
-    - image: /uploads/androiddemo/tumblr_dea0d4d88d4188754bb9ead09c409b71_a3aec79d_1280.jpg 
-    - image: /uploads/androiddemo/tumblr_538a9b1456ed7cc27991401e0aa2c3bd_438b98eb_1280.jpg
-    - image: /uploads/androiddemo/tumblr_a7f56774257feced420cba4124160034_35959076_1280.jpg 
- 
-  - images: 
-    - image: /uploads/slider/image1.jpg
-    - image: /uploads/slider/image2.jpg
-    - image: /uploads/slider/image3.jpg
-    - image: /uploads/slider/image4.jpg
-  - images: 
-    - image: /uploads/slider/image1.jpg
-    - image: /uploads/slider/image2.jpg
-    - image: /uploads/slider/image3.jpg
-    - image: /uploads/slider/image4.jpg
 
----
 
-{% highlight ruby %} 
-1 # HOLE_TO_ANOTHER_UNiVERSE################NormaniLaShaE?# 
-2 # TO#####Erika#######Happy_Anniversary ##################
-3 # ANOTHER##########https://s.id/1kmbG################### 
-4 # UNiVERSE####################################CORaL##### 
-{% endhighlight %}
 
-[The Chemical Brothers - Dig Your Own Hole (Full Album)](https://www.youtube.com/watch?v=2UafeQIkj5c)
 <div class="swatch">
     <div></div>
     <div></div>
@@ -1377,5 +1338,3 @@ carousels:
     <div></div>
   
   </div>
-
-{% include_relative worknotes.md %}
