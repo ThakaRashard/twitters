@@ -1,6 +1,7 @@
 ---
 layout: default
 title: HoleToAnotherUniVersE
+---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/beingfast?src=hash&amp;ref_src=twsrc%5Etfw">#beingfast</a> <a href="https://t.co/h6LYRiTuBT">https://t.co/h6LYRiTuBT</a> <a href="https://twitter.com/Playboy?ref_src=twsrc%5Etfw">@playboy</a> i am not comfortable with <a href="https://twitter.com/hashtag/OpenTreason?src=hash&amp;ref_src=twsrc%5Etfw">#OpenTreason</a> <a href="https://twitter.com/POTUS?ref_src=twsrc%5Etfw">@POTUS</a> if <a href="https://twitter.com/kendricklamar?ref_src=twsrc%5Etfw">@kendricklamar</a> kill me, at least i die knowing i out perfomed you <a href="https://twitter.com/hashtag/X?src=hash&amp;ref_src=twsrc%5Etfw">#X</a> <a href="https://twitter.com/Jeezy?ref_src=twsrc%5Etfw">@Jeezy</a> <a href="https://twitter.com/gucci1017?ref_src=twsrc%5Etfw">@gucci1017</a> // <a href="https://twitter.com/12ozProphet?ref_src=twsrc%5Etfw">@12ozProphet</a> thanks 4 the help <a href="https://twitter.com/hashtag/atlantagraffiti?src=hash&amp;ref_src=twsrc%5Etfw">#atlantagraffiti</a> <a href="https://twitter.com/hashtag/Skatetwitter?src=hash&amp;ref_src=twsrc%5Etfw">#Skatetwitter</a> thats sartu! <a href="https://t.co/tpUQBzIJ2c">pic.twitter.com/tpUQBzIJ2c</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1717961520045592776?ref_src=twsrc%5Etfw">October 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
          </div>
