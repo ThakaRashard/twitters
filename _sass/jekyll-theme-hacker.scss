@@ -156,22 +156,36 @@ h1 { font-family: Tahoma, Verdana, Segoe, sans-serif; font-size: 24px; font-styl
   columns: 2;
 
 }
+
+/* contentDiv */
 #content {
   border-radius: 31px 31px 31px 31px;
-  width: 70vw; 
+  column-count:3;
+  
+  width: 90vw; 
   scrollbar-color: #595959 #262626;
   scrollbar-width: thin;
   padding: 20px;
-  height: 70vh;
+  height: 90vh;
   overflow-y: auto;
+  margin-top: 40px;
   margin-bottom: 40px;
   margin-right: auto;
   margin-left: auto; 	
-  border: 19px solid #262626;
+  border: 19px solid #08a0e9;
   text-align:left; 
     voice-family:inherit;
-  box-shadow: rgba(38,38,38, 0.4) 5px 5px, rgba(38,38,38, 0.3) 10px 10px, rgba(38,38,38, 0.2) 15px 15px, rgba(38,38,38, 0.1) 20px 20px, rgba(38,38,38, 0.05) 25px 25px;
-  background: url(https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/saturn.png ) -237px 30px no-repeat fixed; 
+  box-shadow: rgba(8,160,233, 0.4) 5px 5px, rgba(8,160,233, 0.3) 10px 10px, rgba(8,160,233, 0.2) 15px 15px, rgba(8,160,233, 0.1) 20px 20px, rgba(8,160,233, 0.05) 25px 25px;
+  background: linear-gradient(
+    45deg,
+    #08a0e9 25%,
+    #e8f5fd 0,
+    #e8f5fd 50%,
+    #08a0e9 0,
+    #08a0e9 75%,
+    #e8f5fd 0
+  );
+  background-size: 80.4px 80.4px;
   background-position: 0 0;
    line-height: 1.5;
    -webkit-background-size: cover;
