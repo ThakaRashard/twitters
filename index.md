@@ -20,6 +20,39 @@ title: HoleToAnotherUniVersE
   <div class="flex-item"> <embed src="https://ricothaka.github.io/holetoanotheruniverse/" type="text/html" /></div>
   <div class="flex-item"><embed src="https://ricothaka.github.io/marsblog.html" type="text/html" /></div>
   <div class="flex-item"><embed src="https://ricothaka.github.io/" type="text/html" /></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/0C5HZvoKJX">https://t.co/0C5HZvoKJX</a> <a href="https://twitter.com/CDCemergency?ref_src=twsrc%5Etfw">@CDCemergency</a> <a href="https://twitter.com/NIMHgov?ref_src=twsrc%5Etfw">@NIMHgov</a> <a href="https://twitter.com/LACDMH?ref_src=twsrc%5Etfw">@LACDMH</a> <a href="https://twitter.com/SenBillNelson?ref_src=twsrc%5Etfw">@SenBillNelson</a> <a href="https://twitter.com/LACityCouncil?ref_src=twsrc%5Etfw">@LACityCouncil</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://twitter.com/hashtag/homelessness?src=hash&amp;ref_src=twsrc%5Etfw">#homelessness</a> <a href="https://t.co/emPxENFVvE">https://t.co/emPxENFVvE</a> <a href="https://twitter.com/hashtag/MentalHealth?src=hash&amp;ref_src=twsrc%5Etfw">#MentalHealth</a> <a href="https://twitter.com/hashtag/Voices?src=hash&amp;ref_src=twsrc%5Etfw">#Voices</a> =<a href="https://twitter.com/hashtag/unconsensualcoclearimplant?src=hash&amp;ref_src=twsrc%5Etfw">#unconsensualcoclearimplant</a>? <a href="https://twitter.com/hashtag/FamilyTrafficking?src=hash&amp;ref_src=twsrc%5Etfw">#FamilyTrafficking</a> <a href="https://twitter.com/USDOL?ref_src=twsrc%5Etfw">@USDOL</a> <a href="https://t.co/0d6bRpNVJB">https://t.co/0d6bRpNVJB</a> <a href="https://twitter.com/hashtag/parapsychology?src=hash&amp;ref_src=twsrc%5Etfw">#parapsychology</a> <a href="https://twitter.com/hashtag/Striptease?src=hash&amp;ref_src=twsrc%5Etfw">#Striptease</a> <a href="https://twitter.com/EDC_LasVegas?ref_src=twsrc%5Etfw">@EDC_LasVegas</a> <a href="https://t.co/To8W77T9CE">pic.twitter.com/To8W77T9CE</a></p>&mdash; BubbleGumPop626 (@BubbleGumPop626) <a href="https://twitter.com/BubbleGumPop626/status/1821620124924965155?ref_src=twsrc%5Etfw">August 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">02564. FINKLER, KAJA. SPIRITUALIST HEALERS IN MEXICO: <a href="https://twitter.com/Latto?ref_src=twsrc%5Etfw">@latto</a> <a href="https://twitter.com/hashtag/HolisticHealth?src=hash&amp;ref_src=twsrc%5Etfw">#HolisticHealth</a> i know you got locked up in georgia theres documentation that will clear yuall of <a href="https://twitter.com/hashtag/MEntalProblems?src=hash&amp;ref_src=twsrc%5Etfw">#MEntalProblems</a> <a href="https://twitter.com/Dance411?ref_src=twsrc%5Etfw">@dance411</a>/<a href="https://twitter.com/MagicCity?ref_src=twsrc%5Etfw">@magiccity</a> and <a href="https://twitter.com/hashtag/Rape?src=hash&amp;ref_src=twsrc%5Etfw">#Rape</a> <a href="https://twitter.com/hashtag/CPTSD?src=hash&amp;ref_src=twsrc%5Etfw">#CPTSD</a> etc <a href="https://t.co/WRElyRBTE1">https://t.co/WRElyRBTE1</a></p>&mdash; BubbleGumPop626 (@BubbleGumPop626) <a href="https://twitter.com/BubbleGumPop626/status/1821620789910831514?ref_src=twsrc%5Etfw">August 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr"><a href="https://t.co/E3cJlHZx3B">https://t.co/E3cJlHZx3B</a><a href="https://twitter.com/sza?ref_src=twsrc%5Etfw">@sza</a> <a href="https://twitter.com/hashtag/TheyGot?src=hash&amp;ref_src=twsrc%5Etfw">#TheyGot</a> <a href="https://twitter.com/hashtag/urineammo?src=hash&amp;ref_src=twsrc%5Etfw">#urineammo</a> like they shooting the <a href="https://twitter.com/hashtag/bbgun?src=hash&amp;ref_src=twsrc%5Etfw">#bbgun</a> now it&#39;s ell like <a href="https://twitter.com/hashtag/oldpiss?src=hash&amp;ref_src=twsrc%5Etfw">#oldpiss</a> <a href="https://twitter.com/LACo_DPSS?ref_src=twsrc%5Etfw">@LACo_DPSS</a> <a href="https://twitter.com/hashtag/libraries?src=hash&amp;ref_src=twsrc%5Etfw">#libraries</a> <a href="https://twitter.com/hashtag/blacktwitter?src=hash&amp;ref_src=twsrc%5Etfw">#blacktwitter</a> <a href="https://twitter.com/hashtag/savannah?src=hash&amp;ref_src=twsrc%5Etfw">#savannah</a> this <a href="https://twitter.com/hashtag/stonemountain?src=hash&amp;ref_src=twsrc%5Etfw">#stonemountain</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1820412314853740747?ref_src=twsrc%5Etfw">August 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet"><p lang="qme" dir="ltr">💋💋💋 <a href="https://t.co/ksvCipl4o8">pic.twitter.com/ksvCipl4o8</a></p>&mdash; ALBUM COMING SOON (@kashdoll) <a href="https://twitter.com/kashdoll/status/1820340351682462076?ref_src=twsrc%5Etfw">August 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr"><a href="https://t.co/RcjRK4leEl">https://t.co/RcjRK4leEl</a> <a href="https://twitter.com/SenBillNelson?ref_src=twsrc%5Etfw">@SenBillNelson</a> <a href="https://twitter.com/hashtag/GraphicDesigner?src=hash&amp;ref_src=twsrc%5Etfw">#GraphicDesigner</a> the missing women from Georgia that were Jehovah&#39;s Witnesses they do a lot of work in <a href="https://twitter.com/hashtag/LosAngeles?src=hash&amp;ref_src=twsrc%5Etfw">#LosAngeles</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1820447791623426387?ref_src=twsrc%5Etfw">August 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
