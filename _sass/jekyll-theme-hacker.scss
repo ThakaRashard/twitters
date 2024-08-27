@@ -26,7 +26,6 @@ a:hover,
 a:visited a:hover {
   color: #c9ff23;
   padding: 10px;
-  
 }
 
 a {
@@ -157,59 +156,37 @@ h1 { font-family: Tahoma, Verdana, Segoe, sans-serif; font-size: 24px; font-styl
   columns: 2;
 
 }
-
-/* contentDiv */
 #content {
   border-radius: 31px 31px 31px 31px;
-  display:flex;
-  flex-flow: row wrap;
-  flex-direction: row;
   width: 90vw; 
   scrollbar-color: #595959 #262626;
   scrollbar-width: thin;
-  padding: 20px;
-  height: 90vh;
+  
+  height: 70vh;
   overflow-y: auto;
-  margin:auto; 	
-  border: 19px solid #08a0e9;
+  margin-bottom: 40px;
+  margin-right: auto;
+  margin-left: auto; 	
+  border: 19px solid #262626;
   text-align:left; 
     voice-family:inherit;
-  box-shadow: rgba(8,160,233, 0.4) 5px 5px, rgba(8,160,233, 0.3) 10px 10px, rgba(8,160,233, 0.2) 15px 15px, rgba(8,160,233, 0.1) 20px 20px, rgba(8,160,233, 0.05) 25px 25px;
-  background: linear-gradient(
-    45deg,
-    #08a0e9 25%,
-    #e8f5fd 0,
-    #e8f5fd 50%,
-    #08a0e9 0,
-    #08a0e9 75%,
-    #e8f5fd 0
-  );
-  background-size: 80.4px 80.4px;
+  box-shadow: rgba(38,38,38, 0.4) 5px 5px, rgba(38,38,38, 0.3) 10px 10px, rgba(38,38,38, 0.2) 15px 15px, rgba(38,38,38, 0.1) 20px 20px, rgba(38,38,38, 0.05) 25px 25px;
+  background: url(https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/saturn.png ) -237px 30px no-repeat fixed; 
   background-position: 0 0;
-
+   line-height: 1.5;
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 
     }
 
 
-     img { width: 100%;
-    max-width:100%;
-  }
 
 
 
 
 
-video {
-
-  height: 30vh;
-  width: 100%;
-  display: block;
-  margin-block: 10px 10px;
-  background: url(https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/MOSHED-2024-4-24-15-54-32.jpg)  no-repeat fixed;
-
-
-  transition: 4s cubic-bezier(.25,.1,.2,3);
-}
 
 
 figcaption {
@@ -521,145 +498,23 @@ gradient-text {
 .twitterbox {
   display:flex;
   flex-flow: row wrap;
-  max-width: 1100px;
+  column-count:3;
+  
 } 
 
 
-.tweet {
+blockquote {
 
-  flex: 1 1 400px;
-
-}
-
-iframe blockquote img {
-
-  flex: 1 1 400px;
+  flex: 1 1 300px
 
 }
 
-
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font: inherit;
-  vertical-align: baseline;
-}
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
-  display: block;
-}
-body {
-  line-height: 1;
-}
-ol, ul {
-  list-style: none;
-}
-blockquote, q {
-  quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-  content: '';
-  content: none;
-}
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
-
-* {
-  box-sizing: border-box;
-}
-/* ~~~~~~~~~~~~~~~~~~~~~ h1, h2, h3, h4, h5, h6 {
-  margin: 0 0 50px;
-  padding-left: 820px;
-} */
-
-* {
-  box-sizing: border-box;
-}
-
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Roboto+Mono:ital,wght@0,200;0,400;0,700;1,200;1,400;1,700&family=Silkscreen:wght@400;700&family=Trade+Winds&display=swap');
-html { 
-
-  font: normal 10px/18px 'IBM Plex Sans', "Lucida Sans Unicode", verdana, lucida, sans-serif;
-
-  height: 100%;
-  width: 100%;
-  background: transparent
-} /*url(https://eoimages.gsfc.nasa.gov/images/imagerecords/91000/91578/CrevassedGlacier1_dms_2017301_lrg.JPG)
-    center repeat;
-  background-attachment: fixed;
-} 
-/* Buttons
-*/
-/*
-html {
-  height: 100vh;
-  width: 100vw;
-
-  font: normal 10px/18px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
-  background: linear-gradient(45deg, 
-  #595959 25%, #262626 0, #262626 50%,
-  #595959 0, #595959 75%, #262626 0);
-background-size: 280.4px 280.4px;
-
-transition: 4s cubic-bezier(.25,.1,.2,3);
-
-  background-attachment: fixed;
-}
-
-html:hover {
-
-  background: linear-gradient(45deg, 
-              #262626 25%, #595959 0, #595959 50%,
-              #262626 0, #262626 75%, #595959 0);
-background-size: 80.4px 80.4px;
-  background-attachment: fixed;
-
-}
-*/
-
-h1,
-h2,
-h3,
-h4{
-  color: white;
-  background: transparent
-    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
-    center repeat;
-  font-weight: 900;
-  margin: 5px;
-  padding: 5px;
-  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
-    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
-}
 body {
   text-shadow: 0 0 8px #FFFFFF;
   font-size:140%;
   color: white;
-  background: linear-gradient(45deg, 
-    #262626 25%, #595959 0, #595959 50%,
-    #262626 0, #262626 75%, #595959 0);
-  background-size: 80.4px 80.4px;
   font-family: "VT323", monospace;
-  background-attachment: fixed;
+ 
 
 
 }
@@ -718,190 +573,12 @@ p::first-letter {
   color: cyan;
 }
 
-.firstcharacter {
-  color: #fff;
-  text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
-    0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
-  float: left;
-  font-size: 80px;
-  line-height: 60px;
-  padding-top: 7px;
-  padding-right: 8px;
-  padding-left: 3px;
-}
-
-
-h1 {
-
-   font-size: 170%;
- color:white;
-/* background: linear-gradient(45deg, 
- #F2D338 25%, #262626 0, #262626 50%,
- #F2D338 0, #F2D338 75%, #262626 0);
-background-size: 80.4px 80.4px; */
-font-family: "VT323", monospace;
-
-
-background: 
-linear-gradient(to top, transparent, #b1b1b1 100%),
-#262626 repeating-linear-gradient(45deg, transparent, transparent 35px,
-rgba(255, 255, 255, 0.5) 35px, 
-rgba(255, 255, 255, 0.5) 70px);
-background-clip: padding-box;
-border-left: 1px solid rgba(255, 255, 255, 0.3);
-border-top: 1px solid rgba(255, 255, 255, 0.7);
-box-shadow: 0px 1px 3px 1px #969494;
-background-attachment: fixed;
-}
 
 
 
 
 
-   
-h2 {
-    background: transparent
-     url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg)
-     center repeat;
-     font-size: 140%;
-   color:white;
-     }
 
-/* Buttons
-*/
-
-dt {
-  font-style: italic;
-  font-weight: bold;
-  background: transparent
-  url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg)
-  center repeat;
-}
-
-ul li {
-  list-style-image:url('../images/bullet.png');
-}
-
-blockquote {
-  color: aqua;
-  padding-left: 10px;
-  border-left: 1px dotted yellow;
-}
-
-pre {
-  background: rgba(0, 0, 0, 0.9);
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  padding: 10px;
-  font-size: 16px;
-  color: #b5e853;
-  border-radius: 0px;
-  word-wrap: normal;
-  overflow: auto;
-  overflow-y: hidden;
-}
-
-code.highlighter-rouge {
-  background: rgba(0,0,0,0.9);
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  padding: 0px 3px;
-  margin: 0px -3px;
-  color: #aa759f;
-  border-radius: 0px;
-}
-
-
-table {
-  width: 100%;
-  margin: 0 0 20px 0;
-}
-
-th {
-  text-align: left;
-  border-bottom: 1px dashed #b5e853;
-  padding: 5px 10px;
-}
-
-td {
-  padding: 5px 10px;
-}
-
-hr {
-  height: 0;
-  border: 0;
-  border-bottom: 1px dashed #b5e853;
-  color: #b5e853;
-}
-
-
-
-
-
-  img {
-  display:inline;
-  max-width: 50%;
-  max-height: 50%;
-  width:50%;
-}
-
-
-iframe {
-  width: 49%;
-  display: block;
-  text-align: center;
-}
-
-
-
-blockquote {
-  padding-left: 10px;
-  border-left: 1px dotted 
-}
-
-pre {
-  background: rgba(0, 0, 0, 0.9);
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  padding: 10px;
-  font-size: 16px;
-  color: #b5e853;
-  border-radius: 0px;
-  word-wrap: normal;
-  overflow: auto;
-  overflow-y: hidden;
-}
-
-code.highlighter-rouge {
-  background: rgba(0,0,0,0.9);
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  padding: 0px 3px;
-  margin: 0px -3px;
-  color: #aa759f;
-  border-radius: 0px;
-}
-
-table {
-  width: 100%;
-  margin: 0 0 20px 0;
-}
-
-th {
-  text-align: left;
-  border-bottom: 1px dashed #b5e853;
-  padding: 5px 10px;
-}
-
-td {
-  padding: 5px 10px;
-}
-
-hr {
-  height: 0;
-  border: 0;
-  border-bottom: 1px dashed #b5e853;
-  color: #b5e853;
-}
-
-/* Buttons
-*/
 
 a,
 a:hover,
@@ -913,297 +590,6 @@ a {
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
-
-
-
-video {
-  height: 400px;
-  width: 100%;
-  border-radius:0px;
-  display: block;
-  margin-block: 10px 10px;
-   background: rgb(217,4,121);
-    background: linear-gradient(0deg, 
-              #595959 25%, #262626 0, #262626 50%,
-              #595959 0, #595959 75%, #262626 0);
-background-size: 280.4px 280.4px;
-transition: 4s cubic-bezier(0.1, 0.2, 0.3, 0.4);
-/*  transition: 4s cubic-bezier(.25,.1,.2,3); */
-}
-
-
-embed {
-
-  height: 400px;
-    width: 100%;
-    scrollbar-color: #595959 #262626;
-    scrollbar-width: thin;
-
-  }
-
-  audio {
-    -webkit-transition: all 0.5s linear;
-    -moz-transition: all 0.5s linear;
-    -o-transition: all 0.5s linear;
-    transition: all 0.5s linear;
-    -moz-box-shadow: 2px 2px 4px 0px #006773;
-    -webkit-box-shadow: 2px 2px 4px 0px #006773;
-    box-shadow: 2px 2px 4px 0px #006773;
-    -moz-border-radius: 7px 7px 7px 7px;
-    -webkit-border-radius: 7px 7px 7px 7px;
-    border-radius: 7px 7px 7px 7px;
-  }
-  
-  audio:hover,
-  audio:focus,
-  audio:active {
-    -webkit-box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.4);
-    -moz-box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.4);
-    box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.4);
-    -webkit-transform: scale(1.05);
-    -moz-transform: scale(1.05);
-    transform: scale(1.05);
-  }
-/* Image + PageLayout s */
-.panel4-container {
-
-  display: flex;
-  justify-content: space-evenly;         width:100%;
-    object-fit: cover;
-  overflow: hidden;
-  height: 25%;
-  padding: 0px;
-  gap: 5px;
-
-}
-
-.twoPanelSpread {
-  margin: 0px;
-  padding: 0px;
-  background: url( https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp )
-    center repeat;
-}
-
-.row {
-  border-radius:0px;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  width: 100%;
-
-}
-
-.panelColumn {
-  display: flex;
-  flex-direction: column;
-  flex-basis: 100%;
-  flex: 1;
-  overflow: hidden;
-}
-
-
-.leftColumn {
-  /* background-color: #2470FF; */
-  width: 100%;
-}
-
-.leftColumn img {
-
-    flex-shrink: 0;
-    min-width: 100%;
-    min-height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden
-
-}
-
-.rightColumn {
-  /* background-color: #c9ff23; */
-}
-.rightColumn img { 
-
-    flex-shrink: 0;
-    min-width: 100%;
-    min-height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden
-}
-
-
-
-
-/* 3_TO_6 panel spread ##LAUREN_IS_MY_WIFE_AS_WELL_as_LAURA */
-
-
-
-
-/* screenshots portriats works well for up to 5 on standard monitors*/
-.border {
-  border-bottom:1px solid #c9ff23;
-  display:block;
-}
-.vert-container {
-
-  display: flex;
-   align-items: stretch; 
-   flex-flow: row nowrap;  
-  flex-direction: row; 
-  flex-wrap: nowrap; 
-  justify-content: center;
-  align-content: stretch;
-  padding: 15px;
-  gap: 5px;
-
-}
-
-.vert-container > div{
-
-  border: 1px solid #c9ff23;
-  border-radius: 1px;
-  padding: 8px;
-}
-
-.vert-container > img {
-object-fit: contain;
-max-width: 100%;
-border: 1px solid #c9ff23;
-  border-radius:0px
-
-}
-
-/* FLEX_BOX_FOR_3_IMAGES */
-.flex-container {
-  align-items: stretch;
-/* flex-flow: row nowrap; */
-flex-direction: row;
-flex-wrap: nowrap;
-  padding: 0px;
-justify-content: center;
-align-content: stretch;
-display: grid;
-grid-template-columns: auto auto auto;
-}
-
-.flex-container > div {
-border:  1px dotted #c9ff23;
-  
-}
-
-.flex-container > img {
-object-fit: contain;
-max-width: 100%;
-border: 1px solid #c9ff23;
-}
-
-
-:root {
-  --magnifier: 8;
-  --gap: 0vmax;
-  --transition: 0.5s;
-}
-
-
-
-.pinupGallery {
-  display:block;
-  width: 100%;
-  margin: 0 auto;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0px;
-   object-fit: contain;
-}
-.expandingGallery {
-  width: 100%;
-  height: 25vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: var(--gap);
-}
-
-.expandingGallery > img {
-  --brightness: 0.75;
-  --grayscale: 1;
-  transition: flex var(--transition), filter var(--transition);
-  height: 100%;
-  object-fit: cover;
-  overflow: hidden;
-  flex: 1;
-}
-
-.expandingGallery > img:hover {
-
-  flex: var(--magnifier);
-}
-
-
-
-/* ROLLOVER */ 
-.rollovercontainer {
-  margin: auto;
-  width: 500px;
-}
-
-
-
-/* image effect */
-.rollover {
-  position: relative;
-  display: inline-block;
-}
-.rollover img {
-  transition: opacity 1.5s ease-in-out;
-  backface-visibility: hidden;
-}
-.rollover .first {
-  top: 0;
-  left: 0;
-}
-.rollover .second {
-  position: absolute;
-  top: 0;
-  left: 0;
-  opacity: 0;
-}
-.rollover:hover .first {
-  opacity: 0;
-}
-.rollover:hover .second {
-  opacity: 1;
-}
-
-
-
-
-
-
-/** LIGHTBOX MARKUP **/
-
-.lightbox {
-  /* Default to hidden */
-  display: none;
-
-  /* Overlay entire screen */
-  position: fixed;
-  z-index: 999;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-
-  /* A bit of padding around image */
-  padding: 1em;
-
-  /* Translucent background */
-  background: rgba(0, 0, 0, 0.8);
-}
-
-
 
 
 /* @sarahlugor https://x.com/sarahlugor/status/1756724220388692100?s=20 */
